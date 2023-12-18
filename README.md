@@ -15,8 +15,8 @@ Navigate to the VWAP directory and run the following commands in your terminal.
 
 ```
 mkdir out
-python setup.py build_ext --inplace
-python main.py [itch_file_path] 
+python3 setup.py build_ext --inplace
+python3 main.py [itch_file_path] 
 ```
 
 If ITCH file path is not provided, the program will look up for the file in the current working directory
