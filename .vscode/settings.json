@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "python.h": "c",
+        "limits.h": "c",
+        "pymacconfig.h": "c",
+        "patchlevel.h": "c",
+        "initconfig.h": "c"
+    }
+}
